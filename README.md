@@ -22,7 +22,7 @@
 
 ### UI
 
-![UI](https://github.com/fpro-feup/public/blob/master/recitas/ui.png)
+![UI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgamehall.com.br%2Ftennis-for-two-o-primeiro-game-da-historia-completa-55-anos%2F&psig=AOvVaw2tnFL__mzao7-UKH9UV14C&ust=1608118584379000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKir5efyz-0CFQAAAAAdAAAAABAD)
 
 ### Pacotes
 
