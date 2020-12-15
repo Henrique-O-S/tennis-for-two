@@ -35,4 +35,4 @@
 1. ler teclas e mover as peças
 2. verificar se jogador chegou ao fim do nível
 
-- Atualizado a última vez em 07/12/2020
+- Atualizado a última vez em 15/12/2020
