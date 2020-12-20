@@ -13,7 +13,7 @@ Tennis for Two (1958) é por vezes considerado como o primeiro jogo electrónico
 
 ### UI
 
-![UI](ui.png)
+![UI](ui.jpg)
 
 ### Pacotes
 
