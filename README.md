@@ -24,4 +24,5 @@ Tennis for Two (1958) é por vezes considerado como o primeiro jogo electrónico
 1. [ ] desenhar bola (pos\_x, pos\_y, vel\_x, vel\_y), mover para um dos lados usando equação de projecteis
 1. [ ] ler teclas e modificar movimento da bola (vel\_x = -vel\_x)
 1. [ ] criar barreira no centro; terminar jogo se bater na barreira ou sair
+1. [ ] efeito visual do trilho da bola
 1. [ ] adicionar um menu
